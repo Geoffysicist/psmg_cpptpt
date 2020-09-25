@@ -41,7 +41,7 @@ if read_the_docs_build:
 
 # -- Project information -----------------------------------------------------
 
-project = 'psmg_cpptpt'
+project = 'Prof Sticks Most Good C++ Template'
 copyright = '2019, Geoffysicist'
 author = 'Geoffysicist adapted from Simon Brand'
 
